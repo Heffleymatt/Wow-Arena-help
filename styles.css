@@ -1,0 +1,44 @@
+a{
+    text-decoration: none;
+    color:black;
+}
+
+a:hover{
+    color:red;
+}
+
+a:active{
+    color:green;
+}
+
+body{
+    font-size: 20px;
+}
+
+.containerOne{
+    width:45%;
+    margin:left 5px 10px;
+}
+
+.mainHeader{
+    font: normal 20px, sans-serif, Arial;
+    line-height: 1.5em;
+
+}
+
+h2{
+    text-decoration: underline;
+}
+
+.boxOneAndTwo{
+    float:left;
+    width:30%;
+}
+    
+    
+
+
+.classList{
+    padding:20px;
+}
+
