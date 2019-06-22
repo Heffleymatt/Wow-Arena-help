@@ -1,44 +1,42 @@
-a{
-    text-decoration: none;
-    color:black;
+body {
+    height: 100%;
+    width: 97%;
+    padding: 10px;
+    margin: 0;
 }
 
-a:hover{
-    color:red;
+a {
+	text-decoration: none;
+	color: black;
 }
 
-a:active{
-    color:green;
+a:hover {
+	color: red;
 }
 
-body{
-    font-size: 20px;
+a:active {
+	color: green;
 }
 
-.containerOne{
-    width:45%;
-    margin:left 5px 10px;
+body {
+	font-size: 20px;
 }
 
-.mainHeader{
-    font: normal 20px, sans-serif, Arial;
-    line-height: 1.5em;
-
+.mainHeader {
+	font: normal 20px, sans-serif, Arial;
+	line-height: 1.5em;
 }
 
-h2{
-    text-decoration: underline;
+h2 {
+	text-decoration: underline;
 }
 
-.boxOneAndTwo{
-    float:left;
-    width:30%;
-}
-    
-    
-
-
-.classList{
-    padding:20px;
+.classes, .commonAreas {
+    float: left;
+    width: 50%;
 }
 
+.containerTwo {
+    width: 100%;
+    height: 400px;
+}
